@@ -1,7 +1,7 @@
 # Личный проект «Readme»
 
 * Студент: [Максим Николюкин](https://up.htmlacademy.ru/php/12/user/9853).
-* Наставник: [Анатолий Пашин](https://htmlacademy.ru/profile/id1200767).
+* Наставник: [Денис Дудин](https://htmlacademy.ru/profile/den777).
 
 ---
 
